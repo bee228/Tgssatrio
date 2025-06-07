@@ -5,6 +5,7 @@ st.title("--Selamat Datang Di Web Informatika--")
 st.write("ngoding seru bersama Satrio .")
 st.image("IMG-20250528-WA0064.jpg",width=500)
 
+
 st.title("Aplikasi Sederhana")
 st.header("Aplikasi Mengecek Nilai Genap/Ganjil")
 angka = st.number_input("Tulis Sebuah Angka:", value=0, step=1)
