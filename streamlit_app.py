@@ -1,5 +1,6 @@
 import streamlit as st
 
+
 st.title("--Selamat Datang Di Web Informatika--")
 st.write("ngoding seru bersama Satrio .")
 st.image("IMG-20250528-WA0064.jpg",width=500)
